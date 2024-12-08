@@ -1,0 +1,11 @@
+a+ Machine
+q1 q2 qacc qreject
+a
+a _
+q1
+qacc
+qreject
+q1,a,q1,a,R
+q1,a,q2,a,R
+q2,a,q2,a,R
+q2,_,qacc,_,L
